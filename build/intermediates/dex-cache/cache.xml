@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\Bitbucket\data_collection\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_ffe59bdcb5b0a046dc92d72ef4ba61f58055eb46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\7f459bfd496d77034b152dc89d8e9c71285be31d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf8f6618922da0b0d6d15d7a954c6b2b76f07bb6">
+        <dex dex="D:\Bitbucket\data_collection\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19c9255ade5ca2e498d3f28d7605c70d4e806391\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\Ongoing\Voice_Recognition\SpeechToTextUSB\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_ffe59bdcb5b0a046dc92d72ef4ba61f58055eb46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\7f459bfd496d77034b152dc89d8e9c71285be31d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf8f6618922da0b0d6d15d7a954c6b2b76f07bb6">
+        <dex dex="D:\Ongoing\Voice_Recognition\SpeechToTextUSB\app\build\intermediates\pre-dexed\debug\classes_19c9255ade5ca2e498d3f28d7605c70d4e806391.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\7daeeae6120fe4e12ffbd24172afab0ad927de0f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\Bitbucket\data_collection\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02615c7645a6a120435baa3bd61b939ec1085565\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Ongoing\Voice_Recognition\SpeechToTextUSB\app\libs\pocketsphinx-android-5prealpha-nolib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b14edbed1761c3f21e7a4470e475811e1375586d">
+        <dex dex="D:\Ongoing\Voice_Recognition\SpeechToTextUSB\app\build\intermediates\pre-dexed\debug\pocketsphinx-android-5prealpha-nolib_5849caf9dc176d6c6a60cbcd8812cd115dca07ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\21179694254077271039fca845ab0770a6f01a68\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\Ongoing\Voice_Recognition\SpeechToTextUSB\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_7c50a436612a6332d2aa5267d1a4b8f0b7cd427e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\7daeeae6120fe4e12ffbd24172afab0ad927de0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\Ongoing\Voice_Recognition\SpeechToTextUSB\app\build\intermediates\pre-dexed\debug\classes_02615c7645a6a120435baa3bd61b939ec1085565.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\978d5f7e5d8e9ba051615ca59ab04e6eefac662d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\Ongoing\Voice_Recognition\SpeechToTextUSB\app\build\intermediates\pre-dexed\debug\classes_89b0272dd33ae08b8448bf8b2534c8637b8d07ee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bitbucket\data_collection\SpeechToText\app\libs\pocketsphinx-android-5prealpha-nolib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b14edbed1761c3f21e7a4470e475811e1375586d">
+        <dex dex="D:\Bitbucket\data_collection\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\2\pocketsphinx-android-5prealpha-nolib_08b8ff81693fc36910e41aefe3a9b52e731bb537\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bitbucket\data_collection\SpeechToText\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df1c751e3f4e37be81034fe4d7d38006b8cbec80">
+        <dex dex="D:\Bitbucket\data_collection\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_889c880fac73b43a1b976255f4a8d8f424078468\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\102af72b30bad58d1ec57dd0d8729129bec0527a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\Bitbucket\data_collection\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6e9907573419ab2bc3471033e08c0426a51da8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\978d5f7e5d8e9ba051615ca59ab04e6eefac662d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\Bitbucket\data_collection\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_89b0272dd33ae08b8448bf8b2534c8637b8d07ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\7a174a8ddced132e2eeffc72cd6f816631ea0b45\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="D:\Bitbucket\data_collection\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3fc62a1582fd98e8dea2ffed5a57a152bbdae343\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\7a174a8ddced132e2eeffc72cd6f816631ea0b45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="D:\Ongoing\Voice_Recognition\SpeechToTextUSB\app\build\intermediates\pre-dexed\debug\classes_3fc62a1582fd98e8dea2ffed5a57a152bbdae343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\102af72b30bad58d1ec57dd0d8729129bec0527a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\Ongoing\Voice_Recognition\SpeechToTextUSB\app\build\intermediates\pre-dexed\debug\classes_e6e9907573419ab2bc3471033e08c0426a51da8f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Bitbucket\data_collection\SpeechToText\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Bitbucket\data_collection\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f32690f227b6d875599ab5186ceaa0dba1907198\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\21179694254077271039fca845ab0770a6f01a68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\Ongoing\Voice_Recognition\SpeechToTextUSB\app\build\intermediates\pre-dexed\debug\classes_a3dc0f0283713052b8208ce2b4d39a2acc132e95.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\21179694254077271039fca845ab0770a6f01a68\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\Bitbucket\data_collection\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3dc0f0283713052b8208ce2b4d39a2acc132e95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\.android\build-cache\21179694254077271039fca845ab0770a6f01a68\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\Bitbucket\data_collection\SpeechToText\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_7c50a436612a6332d2aa5267d1a4b8f0b7cd427e\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<digit> =
+        command turn left |
+        command turn right |
+        command back up |
+        command straight |
+        command traffic |
+        command u turn |
+        command local |
+        command freeway |
+        command red light |
+        command green light |
+        command stop logging;
+
+public <digits> = <digit>+;
